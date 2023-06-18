@@ -34,9 +34,7 @@ Here's an example with an `FX_MICA` layout:
 ```python
 
 from PySide2 import QApplication
-
 from PySide2 import QApplication, QVBoxLayout
->>>>>>> 901849c152ca26d7b2d7dc8c3202c7405f7ebfe1
 from win11theme import *
 import sys
 
